@@ -1,4 +1,5 @@
 # CompliSight
+https://poe.com/CompliSight
 A cloud-based compliance monitoring app tailored for small and mid-sized brokers that delivers low-cost, automated compliance tools while ensuring alignment with SEBI’s market integrity &amp; investor protection goals.
 Build a full-stack SaaS web application called CompliSight — “Smart, Affordable Compliance for Every Broker”.
 The app helps small & medium-sized brokerage firms in the securities sector with low-cost, efficient compliance monitoring, aligned with SEBI’s investor protection and market integrity goals.
